@@ -36,13 +36,13 @@ At this point move from mysql-server and let us open a second terminal. We're go
 Use the cd downloads command while inside this terminal.
 Then paste mysql-client EC2 Instance ssh example code. And then press enter.
 
-`mkdir PRJ5`
-We created PRJ5 directory for mysql-client
+`mkdir CSAProject5`
+We created CSAProject5 directory for mysql-client
 
-`cd PRJ5`
+`cd CSAProject5`
 We used this command to change into this directory.
 
-![ClientServer directory created](./PRJ5.md created.png)
+![ClientServer directory created](./CSAProject5.md created.png)
 
 `sudo apt install mysql-client`
 This command was used to install mysql-client.
