@@ -91,3 +91,5 @@ Then go your mysql-client, and enter the command above. Then enter your password
 ![show databases](./show databasesClient.png)
 
 Databases shown on both mysql-server and mysql-client.
+
+PROJECT COMPLETED
